@@ -1,21 +1,21 @@
 ## 👋 Hi, I'm @MehrzadDadras
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in how to use AI in architectural design
+- 🌱 I’m currently learning ChatGPT Prompt 
+- 💞️ I’m looking to collaborate on Revit program
+- 📫 How to reach me architect@rogers.com
 
 ### About Me
 
-<!-- Add a brief introduction about yourself -->
+<!-- I am and architect -->
 
 ### My Interests
 
-<!-- List some of your interests, both related to coding and personal -->
+<!-- I was excoted in the internet start and now I am excited about AI age start-->
 
 ### What I'm Learning
 
-<!-- Share what you are currently learning or exploring -->
+<!-- I am just listening to all kind of new about AI -->
 
 ### Collaboration Opportunities
 
